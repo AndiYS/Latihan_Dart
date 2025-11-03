@@ -1,7 +1,7 @@
 const num pi = 3.14;
 void main(){
-  int radius ;
-  radius = 8235 ;
+  double radius ;
+  radius = 82.33 ;
   print(
     'Hasilnya $radius = ${calculateCircleArea(radius)}'
   );

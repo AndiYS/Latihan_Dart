@@ -1,10 +1,13 @@
 //import 'package:newdart/newdart.dart' as newdart;
 //import 'dart:io' ;
-const pi = 3.14;
 void main(){
-  int contoh ;
+  /*double contoh ;
   contoh = 21;
-  print(contoh);
+  print(contoh);*/
+  /*final firstName = 'Achmad' ;
+  final lastName  = 'Lewa' ;
+  print ("halo $firstName $lastName");*/
+  
   
   
 }
