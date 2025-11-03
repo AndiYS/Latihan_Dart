@@ -1,7 +1,8 @@
+import 'dart:io';
 const num pi = 3.14;
 void main(){
-  double radius ;
-  radius = 82.33 ;
+  stdout.write('Masukkan jumlah radiusnya :');
+  int radius = int.parse(stdin.readLineSync()!) ;
   print(
     'Hasilnya $radius = ${calculateCircleArea(radius)}'
   );
